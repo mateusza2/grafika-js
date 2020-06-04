@@ -9,7 +9,6 @@ function rysuj(){
     ctx.lineTo( 700, 550 )
     ctx.stroke()
 
-
     ctx.beginPath();
     ctx.lineWidth = 5
     ctx.strokeStyle = "#33e"
